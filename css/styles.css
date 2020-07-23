@@ -1,0 +1,12 @@
+style
+body
+{background-color: blue;
+}
+h1 {color: #204051;}
+h3 {color: #204051;}
+  hr {
+  border-style: dotted none none;
+  width: 50%;
+  border-color: #3b6978;
+  border-width: 5px;
+}
